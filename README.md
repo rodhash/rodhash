@@ -1,11 +1,12 @@
 ### Hey!
 
 
-
+- 📌 I'm .............................................. Senior Unix & Automation analyst by day and Developer for fun
+- 🔭 I’m currently working on ............. Automations / Ansible / Docker / Unix / Private Cloud
+- 🎖️ I'm certified on ............................ IBM (AIX 6/7) / LPI2-Novel / ICS / RedHat / Azure
 - 🌱 I’m currently learning .................. Node ecosystem, Express and all it's glory
 - 👯 I’m looking to collaborate on ...... JS or Python projects
-- 🎖️ I'm certified on ............................ IBM (AIX 6/7) / LPI2-Novel / ICS / RedHat / Azure
-- 🔭 I’m currently working on ............. Automations / Ansible / Docker / Unix / Private Cloud
+
 
 
 #### Check out some of my github stat
