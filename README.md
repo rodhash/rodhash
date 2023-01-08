@@ -1,4 +1,6 @@
-### Hey!
+### Hello !
+
+My name is Rodrigo Hashimoto, most of my friends call me by my last name
 
 
 - 📌 I'm ............................................... Senior Unix & Automation analyst by day and Developer for fun
