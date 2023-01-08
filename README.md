@@ -1,11 +1,14 @@
 ### Hey!
 
 
-- 📌 I'm .............................................. Senior Unix & Automation analyst by day and Developer for fun
+- 📌 I'm ............................................... Senior Unix & Automation analyst by day and Developer for fun
 - 🔭 I’m currently working on ............. Automations / Ansible / Docker / Unix / Private Cloud
 - 🎖️ I'm certified on ............................ IBM (AIX 6/7) / LPI2-Novel / ICS / RedHat / Azure / Terraform *(WIP)* 
 - 🌱 I’m currently learning .................. Node ecosystem, Express and all it's glory
 - 🕺 I’m looking to collaborate on ...... JS or Python projects
+- 🤔 One of my favorite phrases ........ When everything is priority, nothing is priority (Max Geringher)
+- ⚡ Fun fact about me ....................... I don't like most social media, it's toooo distractive. Preferred contact: email, cel or linkedin
+- 📫 How to reach me: ........................ Links below
 
 
 
@@ -42,11 +45,8 @@
   ### Learning
     
 <div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   
 </div>  
   
@@ -54,10 +54,14 @@
   
   ### Some day
 <div style="display: inline_block">
-<img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">  
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
 </div>
+
+<!-- Icons list-->
+<!-- https://github.com/devicons/devicon/tree/master/icons -->
 
 <!-- SAmples
 <div style="display: inline_block"><br>
