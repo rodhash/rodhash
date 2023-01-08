@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning .................. Node ecosystem, Express and all it's glory
 - 🕺 I’m looking to collaborate on ...... JS or Python projects
 - 🤔 One of my favorite phrases ........ When everything is priority, nothing is priority (Max Geringher)
-- ⚡ Fun fact about me ....................... I don't like most social media, it's toooo distractive. Preferred contact: email, cel or linkedin
+- ⚡ Fun fact about me ....................... I don't like most social media, too distractive! Preferred contact: email/cel/linkedin
 - 📫 How to reach me: ........................ Links below
 
 
