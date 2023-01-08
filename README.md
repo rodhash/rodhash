@@ -1,12 +1,10 @@
 ### Hello !
 
-My name is Rodrigo Hashimoto, most of my friends call me by my last name
-
 
 - 📌 I'm ............................................... Senior Unix & Automation analyst by day and Developer for fun
 - 🔭 I’m currently working on ............. Automations / Ansible / Docker / Unix / Private Cloud
 - 🎖️ I'm certified on ............................ IBM (AIX 6/7) / LPI2-Novel / ICS / RedHat / Azure / Terraform *(WIP)* 
-- 🌱 I’m currently learning .................. Node ecosystem, Express and all it's glory
+- 🌱 I’m currently learning .................. Node ecosystem, Express and all of it's glory
 - 🕺 I’m looking to collaborate on ...... JS or Python projects
 - 🤔 One of my favorite phrases ........ When everything is priority, nothing is priority (Max Geringher)
 - ⚡ Fun fact about me ....................... I don't like most social media, too distractive! Preferred contact: email/cel/linkedin
