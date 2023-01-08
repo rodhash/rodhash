@@ -1,5 +1,7 @@
 ### Hello !
 
+My name is Rodrigo but most of my friends call me by my last name, Hashimoto
+
 
 - 📌 I'm ............................................... Senior Unix & Automation analyst by day and Developer for fun
 - 🔭 I’m currently working on ............. Automations / Ansible / Docker / Unix / Private Cloud
