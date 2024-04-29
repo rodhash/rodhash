@@ -7,17 +7,15 @@ My name is Rodrigo, Catholic, Brazilian, Geek, Infra guy but loves coding.
 </pre>
 
 - 📌 I'm ............................................... Senior Unix / Automation analyst + Developer for fun
-- 🔭 I’m currently working on ............. Automations / Ansible / Azure / Security
+- 🔭 I’m currently working on ............. Automations / Ansible / Azure Policies with Terraform / GCP / etc
 - 🎖️ I'm certified on ............................ IBM (AIX 6/7) / LPI2-Novel / ICS / RedHat / Azure / Terraform *(WIP)*
-- 🌱 I’m currently learning .................. Node ecosystem, Express and all it's glory
-- 🕺 I’m looking to collaborate on ...... JS or Python projects
+- 🌱 I’m currently learning .................. Go, Node ecosystem, Express and all the cool stuff
+- 🕺 I’m looking to collaborate on ...... Go, JS or Python projects
 - 🤔 One of my favorite phrases ........ When everything is priority, nothing is priority (Max Geringher)
-- ⚡ Fun fact about me ....................... I don't like most social media, too distractive! Preferred contact: email or linkedin
+- ⚡ Fun fact about me ....................... I don't like most social media, too distractive! Preferred contact by email or linkedin
 - 📫 How to reach me  ........................
-  <a href="mailto:rodhash@gmail.com" target="_blank">
-  <img align="center" alt="Gmail" height="30" width="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-hashimoto-7061101b/" target="_blank">
-  <img align="center" alt="Linkedin" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jackdaw-orbits-0s@icloud.com" target="_blank"><img style="" src="https://github.com/rodhash/rodhash/assets/29671981/7d81f2f6-1f6b-4b8f-9898-9b64347cd9a2" width="30px" height="30px"/></a> <span style="color:red">or</span>
+  <a href="https://linkedin.com/in/rodrigo-hashimoto-7061101b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodhash" height="30" width="40" /></a>
 
 <!-- #### Check out some of my github stat -->
 <br>
@@ -33,7 +31,7 @@ My name is Rodrigo, Catholic, Brazilian, Geek, Infra guy but loves coding.
 </div>
 
 <br>
-  
+
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=rodhash&theme=monokai" alt="rodhash" /></a> </p> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodhash&label=Profile%20views&color=0e75b6&style=flat" alt="rodhash" /> </p> -->
@@ -42,10 +40,12 @@ My name is Rodrigo, Catholic, Brazilian, Geek, Infra guy but loves coding.
 
 <div style="display: inline_block">
 
+  <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img align="center" alt="Unix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Redhat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
@@ -60,6 +60,10 @@ My name is Rodrigo, Catholic, Brazilian, Geek, Infra guy but loves coding.
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </div>
 
 <br>
@@ -93,27 +97,9 @@ My name is Rodrigo, Catholic, Brazilian, Geek, Infra guy but loves coding.
 ## Contacts
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/rodrigo-hashimoto-7061101b/" target="_blank">
-  <img align="center" alt="Linkedin" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-  <a href="https://t.me/rodhash" target="_blank">
-  <img align="center" alt="Telegram" height="30" width="90" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
-  <a href="mailto:rodhash@gmail.com" target="_blank">
-  <img align="center" alt="Gmail" height="30" width="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-  <a href="mailto:rodhash@protonmail.com" target="_blank">
-  <img align="center" alt="ProtonMail" height="30" width="100" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-
-  <a href="https://gitlab.com/rodhash" target="_blank">
-  <img align="center" alt="gitlab" height="30" width="90" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-
-  <a href="https://github.com/rodhash/" target="_blank">
-  <img align="center" alt="github" height="30" width="90" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
-  <a href="https://discord.gg/qArd2UjuZn" target="_blank">
-  <img align="center" alt="Discord" height="30" width="90"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  </div>
+  <a href="mailto:jackdaw-orbits-0s@icloud.com" target="_blank"><img style="" src="https://github.com/rodhash/rodhash/assets/29671981/7d81f2f6-1f6b-4b8f-9898-9b64347cd9a2" width="30px" height="30px"/></a>
+  <a href="https://linkedin.com/in/rodrigo-hashimoto-7061101b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodhash" height="30" width="40" /></a>
+</div>
 
 <!--
 **rodhash/rodhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
